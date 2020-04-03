@@ -1,0 +1,6 @@
+G:\C#\이환철\이환철\obj\Release\이환철.Form1.resources
+G:\C#\이환철\이환철\obj\Release\이환철.Form2.resources
+G:\C#\이환철\이환철\obj\Release\이환철.Properties.Resources.resources
+G:\C#\이환철\이환철\obj\Release\이환철.csproj.GenerateResource.Cache
+G:\C#\이환철\이환철\bin\Release\이환철.exe.config
+G:\C#\이환철\이환철\obj\Release\이환철.csprojResolveAssemblyReference.cache

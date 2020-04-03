@@ -1,0 +1,58 @@
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\이환철.exe.config
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\이환철.exe
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\이환철.pdb
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.csprojResolveAssemblyReference.cache
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.Form1.resources
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.Properties.Resources.resources
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.csproj.GenerateResource.Cache
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.csproj.CoreCompileInputs.cache
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.exe
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.pdb
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Data.dll
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Data.Entity.dll
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Web.dll
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Data.xml
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\bin\Debug\MySql.Web.xml
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.csproj.이환철.exe.config
+C:\Users\inha\Documents\Visual Studio 2017\Projects\이환철\이환철\obj\Debug\이환철.Form2.resources
+F:\C#\이환철\이환철\bin\Debug\이환철.exe.config
+F:\C#\이환철\이환철\bin\Debug\이환철.exe
+F:\C#\이환철\이환철\bin\Debug\이환철.pdb
+F:\C#\이환철\이환철\bin\Debug\MySql.Data.xml
+F:\C#\이환철\이환철\bin\Debug\MySql.Data.Entity.EF6.xml
+F:\C#\이환철\이환철\bin\Debug\MySql.Web.xml
+F:\C#\이환철\이환철\obj\Debug\이환철.csprojResolveAssemblyReference.cache
+F:\C#\이환철\이환철\obj\Debug\이환철.csproj.이환철.exe.config
+F:\C#\이환철\이환철\obj\Debug\이환철.Form1.resources
+F:\C#\이환철\이환철\obj\Debug\이환철.Form2.resources
+F:\C#\이환철\이환철\obj\Debug\이환철.Properties.Resources.resources
+F:\C#\이환철\이환철\obj\Debug\이환철.csproj.GenerateResource.Cache
+F:\C#\이환철\이환철\obj\Debug\이환철.exe
+F:\C#\이환철\이환철\obj\Debug\이환철.pdb
+G:\C#\이환철\이환철\bin\Debug\이환철.exe.config
+G:\C#\이환철\이환철\bin\Debug\이환철.exe
+G:\C#\이환철\이환철\bin\Debug\이환철.pdb
+G:\C#\이환철\이환철\obj\Debug\이환철.csprojResolveAssemblyReference.cache
+G:\C#\이환철\이환철\obj\Debug\이환철.csproj.이환철.exe.config
+G:\C#\이환철\이환철\obj\Debug\이환철.Form1.resources
+G:\C#\이환철\이환철\obj\Debug\이환철.Form2.resources
+G:\C#\이환철\이환철\obj\Debug\이환철.Properties.Resources.resources
+G:\C#\이환철\이환철\obj\Debug\이환철.csproj.GenerateResource.Cache
+G:\C#\이환철\이환철\obj\Debug\이환철.exe
+G:\C#\이환철\이환철\obj\Debug\이환철.pdb
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.exe.config
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.exe
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.pdb
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.csprojResolveAssemblyReference.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.exe.config
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Form1.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Form2.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Properties.Resources.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.csproj.GenerateResource.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.csproj.CoreCompileInputs.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.csproj.CopyComplete
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.exe
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.pdb

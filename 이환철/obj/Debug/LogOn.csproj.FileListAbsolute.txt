@@ -1,0 +1,13 @@
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.exe.config
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.exe
+C:\나\USB\C#\이환철\이환철\bin\Debug\이환철.pdb
+C:\나\USB\C#\이환철\이환철\obj\Debug\LogOn.csprojAssemblyReference.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.exe.config
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Form1.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Form2.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.Properties.Resources.resources
+C:\나\USB\C#\이환철\이환철\obj\Debug\LogOn.csproj.GenerateResource.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\LogOn.csproj.CoreCompileInputs.cache
+C:\나\USB\C#\이환철\이환철\obj\Debug\LogOn.csproj.CopyComplete
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.exe
+C:\나\USB\C#\이환철\이환철\obj\Debug\이환철.pdb
